@@ -1,4 +1,9 @@
-Hi there 👋! I'm Anatolii Siuniaev
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="300">
+
+<br>
+
+# Hi there 👋! I'm Anatolii Siuniaev
+
 
 # 💫 About Me
 I'm an experienced Data Engineer with over 4 years of expertise in designing and implementing robust data pipelines and ETL processes. Specializing in cloud technologies, particularly Azure and AWS, with hands-on experience in services such as Azure Databricks, Azure Data Factory, AWS EMR, and AWS Glue
@@ -14,13 +19,14 @@ Languages:
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge)](#)
 
 Data: 
-[![Apache Spark](https://img.shields.io/badge/apache_spark-%23DC322F.svg?style=for-the-badge&logo=ApacheSpark&logoColor=DF581C&color=white)](#) 
+[![Apache Spark](https://img.shields.io/badge/apache_spark-%23DC322F.svg?style=for-the-badge&logo=ApacheSpark&logoColor=DF581C&color=white)](#) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-FF3621?style=for-the-badge&logo=Hadoop&logoColor=white&color=FBF500)
+
 
 Cloud: 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 
-Databases: ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
+Databases: [![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&style=for-the-badge&logoColor=fff)](#) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) [[![Teradata](https://img.shields.io/badge/Teradata-F37440?logo=teradata&logoColor=fff&style=for-the-badge)](#)
+ 
 ETL Tools: 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) 
 
