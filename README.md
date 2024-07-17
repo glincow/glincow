@@ -10,7 +10,7 @@
 I'm an experienced Data Engineer with over 4 years of expertise in designing and implementing robust data pipelines and ETL processes. Specializing in cloud technologies, particularly Azure and AWS, with hands-on experience in services such as Azure Databricks, Azure Data Factory, AWS EMR, and AWS Glue
 
 ### 🌐 Where to find me
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/aa_sun) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aa-sun/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.a.syunyaev@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aa_sun) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aa-sun/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.a.syunyaev@gmail.com)
 
 
 <br>
