@@ -1,10 +1,15 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="300">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" align="right" width="300">
 
 <br>
+<br>
+<br> 
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=4000&pause=1000&color=F7F7F7&repeat=false&width=700&lines=Hi+there!+%F0%9F%91%8B++I'm+Anatolii+Siuniaev)](https://git.io/typing-svg)
 
+<br> 
+<br> 
 
 # 💫 About Me
 I'm an experienced Data Engineer with over 4 years of expertise in designing and implementing robust data pipelines and ETL processes. Specializing in cloud technologies, particularly Azure and AWS, with hands-on experience in services such as Azure Databricks, Azure Data Factory, AWS EMR, and AWS Glue
